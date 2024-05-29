@@ -1,2 +1,2 @@
-# mycollege-demo
+# my-college-demo
 this is first demo repository
